@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 I am currently employed as a lecturer at Uttara University's Computer Science and Engineering Department. I  have completed my Bachelor of Science (BSc) degree in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET). My research interest lies in the area of Quantum Computing, Quantum Information Processing, and Security.  
 I am seeking to expand my expertise by pursuing an M.Sc. and Ph.D. degree in Computer Science. My ambition is to contribute to groundbreaking research that advances technology and addresses complex challenges in the field
 
